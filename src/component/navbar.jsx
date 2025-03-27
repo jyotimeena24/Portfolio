@@ -13,7 +13,7 @@ function Navbar(){
                     <li>Home</li>
                     <li>About</li>
                     <li>Contact us</li>
-                    <li>Service</li>
+                   
                 </ul>
              </div>
              </>
